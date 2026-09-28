@@ -1,5 +1,5 @@
 # Converting-solar-date_project_python
-پ
+
 This project is a simple Python application for converting Solar Hijri dates to the Gregorian calendar.
 
 **Technologies Used**
